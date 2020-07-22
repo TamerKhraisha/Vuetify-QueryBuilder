@@ -10,3 +10,5 @@ Vue Query Builder is a SQL query interface that makes it easy for your users to 
 [Demo here](https://codepen.io/TamerKhraisha/pen/abbYvjm)
 
 ![Demo Screenshot](https://raw.githubusercontent.com/dabernathy89/vue-query-builder/master/public/demo-screenshot.png "Demo screenshot")
+
+![Alt text](src/assets/screenshot.png?raw=true "Title")
