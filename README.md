@@ -7,8 +7,7 @@ Vuetify Query Builder
 Vue Query Builder is a SQL query interface that makes it easy for your users to write queries without the need to know SQL. It's useful if you have users whose knowledge of SQL is at the basic level.
 
 
-[Demo here](https://codepen.io/TamerKhraisha/pen/abbYvjm)
+[Interactive demo here](https://codepen.io/TamerKhraisha/pen/abbYvjm)
 
-![Demo Screenshot](https://raw.githubusercontent.com/dabernathy89/vue-query-builder/master/public/demo-screenshot.png "Demo screenshot")
 
-![Alt text](src/assets/screenshot.png?raw=true "Title")
+![Demo screenshot](src/assets/screenshot.png?raw=true "Title")
