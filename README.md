@@ -1,4 +1,4 @@
-![](https://vuetifyjs.com/apple-touch-icon-180x180.png?raw=true "Title")
+![](https://vuetifyjs.com/apple-touch-icon-180x180.png=100x20?raw=true "Title")
 Vuetify Query Builder
 ======
 
