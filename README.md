@@ -1,4 +1,4 @@
-Vuetify Query Builder
+[](https://vuetifyjs.com/apple-touch-icon-180x180.png)Vuetify Query Builder
 ======
 
 
