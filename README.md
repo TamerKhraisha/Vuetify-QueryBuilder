@@ -1,6 +1,6 @@
 <p align="start">
   <a href="https://vuetifyjs.com/en/" target="_blank">
-    <img src="https://vuetifyjs.com/apple-touch-icon-180x180.png" alt="Storyblok" width="100px" height="100px>
+    <img src="https://vuetifyjs.com/apple-touch-icon-180x180.png" alt="Storyblok" width="100px" height="100px">
   </a>
 </p>
 
