@@ -1,4 +1,9 @@
-![](https://vuetifyjs.com/apple-touch-icon-180x180.png?raw=true "Title")
+<p align="start">
+  <a href="https://vuetifyjs.com/en/" target="_blank">
+    <img src="https://vuetifyjs.com/apple-touch-icon-180x180.png" alt="Storyblok" width="240px">
+  </a>
+</p>
+
 Vuetify Query Builder
 ======
 
